@@ -11,7 +11,7 @@ export LANG=en_US.UTF-8
 
 
 # Path Mods
-export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:/home/john/.local/bin:$PATH
 export PATH=$PATH:/usr/local/go/bin/
 
 
