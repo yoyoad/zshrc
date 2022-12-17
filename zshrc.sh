@@ -19,6 +19,9 @@ export PATH=$PATH:/usr/local/go/bin/
 alias zshcfg="sudo nano ~/.zshrc"
 alias tmux="tmux -u"
 alias tmuxcfg="sudo nano ~/.tmux.conf"
+alias cat="batcat"
+
+alias cm="git add -A && git commit -m"
 
 #Functions
 wsp () {
